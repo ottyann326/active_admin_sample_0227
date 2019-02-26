@@ -26,8 +26,12 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+# 管理者画面
 gem 'activeadmin'
 gem 'devise'
+
+# 日本語化
+gem 'rails-i18n'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
